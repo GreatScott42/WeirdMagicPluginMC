@@ -1,0 +1,20 @@
+name: WeirdMagick
+version: 1.2
+author: Great_Scott42
+main: me.GreatScott42.WeirdMagick.Main
+api-version: 1.13
+commands:
+  givespell:
+    description: give a spell
+    usage: /givespell <spell>
+    permission: WeirdMagick.givespell
+permissions:
+  WeirdMagick.givespell:
+    description: allows givespell command
+    default: op
+  WeirdMagick.checkupdate:
+    description: allows to recive if there is an update
+    default: op
+  WeirdMagick.voodooinmune:
+    description: makes you inmune to voodoo curse
+    default: op

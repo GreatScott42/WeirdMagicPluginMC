@@ -1,0 +1,34 @@
+#WeirdMagick Config file
+
+#do not change this
+config-version: 1.2
+
+# if false, wont be able to craft baby spells
+babyrecipe: true
+
+# if false, wont be able to craft adult spells
+adultrecipe: true
+
+# if false, wont be able to craft ethereal saddle
+cancraftsaddle: true
+
+# if is false cleric villagers wont drop voodoo books
+dropvoodoobook: true
+
+# the chance of killing a cleric villager that drop voodoo books (n/100)
+dropchancevoodoo: 5
+
+# if false wont be able to create wands
+canmakewand: true
+
+# drop chances of break a bookshelf and get a weirdorio (n/100);
+dropchanceweirdorio: 10
+
+# if false bookshelfs wont drop weirdorios
+bookshelfdropsweirdorio: true
+
+# set false if you do not want warped wart block drop dimensional apple item
+warpedwartblockdropdimensionalapple: true
+
+# set the chances of a warped wart block to drop a dimensional apple from 100%
+dropchancedimensionalapple: 1
